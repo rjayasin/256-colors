@@ -24,3 +24,13 @@ As a sendoff to those old times, I will write a python script that can generate 
 ```
 uv run 256_colors.py
 ```
+
+or even
+
+```
+while sleep .5; do uv run 256_colors.py; done
+```
+
+## Sample Output
+
+![generated](generated.jpg)
